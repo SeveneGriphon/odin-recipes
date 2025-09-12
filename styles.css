@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+html {
+    background-color:cornsilk;
+}
+
+h1 {
+    font-family: 'Lucida Handwriting',cursive;
+    text-align: center;
+    margin: 16px 0px;
+    color: goldenrod;
+}
+
+.recipe-heading {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.list-card {
+    box-sizing: border-box;
+    width: 520px;
+    /* height: 180px; */
+    margin: 15px auto;
+    padding: 15px;
+    background-color:burlywood;
+}
+
+.list-card * {
+    background-color: wheat;
+}
+
+.recipe-link {
+    margin: 16px;
+}
+
+.recipe-list {
+    padding: 8px;
+}
