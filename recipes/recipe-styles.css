@@ -17,6 +17,8 @@ h1 {
 }
 
 img {
+    background-color: wheat;
+    padding: 8px;
     margin: 12px 0px;
 }
 
