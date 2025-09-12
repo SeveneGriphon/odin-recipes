@@ -41,6 +41,7 @@ img {
 .ingredient {
     background-color: wheat;
     margin: 8px;
+    font-weight: bold;
 }
 
 .step {
